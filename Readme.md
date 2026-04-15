@@ -10,6 +10,9 @@ Proporcionar una herramienta de código abierto que permita a analistas, estudia
 El repositorio se organiza por áreas temáticas de política pública:
 
 -   `/fiscal`: Análisis de estatutos tributarios, Impuesto a la Renta, Impuesto al Patrimonio y Ganancias Ocasionales.
+
+pendiente:
+
 -   `/pensiones`: Simulaciones de regímenes pensionales (Colpensiones vs. Fondos Privados) y reformas al sistema de seguridad social.
 -   `/vivienda`: Impacto de subsidios (Mi Casa Ya) y fluctuaciones de tasas UVR vs. Pesos.
 -   `/laboral`: Modelado de costos de contratación, reformas a la jornada laboral y compensaciones.
