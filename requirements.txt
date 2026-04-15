@@ -1,0 +1,10 @@
+pyyaml
+requests
+matplotlib
+numpy
+pandas
+scikit-learn
+boto3
+beautifulsoup4
+pytest
+icecream
